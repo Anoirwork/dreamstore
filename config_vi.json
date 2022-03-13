@@ -1,0 +1,525 @@
+{
+"HorizonLayout": [
+{
+"layout": "logo",
+"showMenu": true,
+"showSearch": false,
+"showLogo": false,
+"showCart": false,
+"showNotification": true,
+"menuIcon": {
+"name": "bars",
+"fontFamily": "CupertinoIcons"
+}
+},
+{
+"isSafeArea": false,
+"showSearch": true,
+"usePrimaryColor": true,
+"borderInput": true,
+"title": "Tìm kiếm sản phẩm..",
+"alignment": "centerLeft",
+"fontWeight": 0,
+"radius": 9,
+"fontSize": 18,
+"textOpacity": 0.8,
+"marginLeft": 20,
+"marginRight": 20,
+"marginBottom": 0,
+"marginTop": 10,
+"paddingLeft": 12,
+"paddingRight": 15,
+"paddingTop": 0,
+"paddingBottom": 0,
+"height": 45,
+"rotate": [],
+"layout": "header_search"
+},
+{
+"layout": "category",
+"type": "text",
+"wrap": false,
+"showShortDescription": true,
+"size": 1.2,
+"radius": 6,
+"spacing": 12,
+"items": [
+{
+"category": null,
+"image": null,
+"colors": [
+"#333333"
+],
+"originalColor": true,
+"keepDefaultTitle": true,
+"showDescription": false,
+"title": "#Sắc đẹp"
+},
+{
+"category": "198",
+"image": null,
+"colors": [
+"#333333"
+],
+"originalColor": true,
+"keepDefaultTitle": true,
+"showDescription": false,
+"title": "#đồ gia dụng"
+},
+{
+"category": "188",
+"image": null,
+"colors": [
+"#333333"
+],
+"originalColor": true,
+"keepDefaultTitle": true,
+"showDescription": false,
+"title": "#Sức khỏe"
+}
+],
+"line": false,
+"marginLeft": 22,
+"marginRight": 0,
+"marginTop": 10,
+"marginBottom": 10,
+"paddingX": 4,
+"paddingY": 9,
+"marginX": 0,
+"marginY": 0,
+"hideTitle": false,
+"noBackground": false,
+"imageBorderWidth": null,
+"imageBorderColor": null,
+"imageBorderStyle": "solid",
+"imageSpacing": 0,
+"labelFontSize": 14
+},
+{
+"layout": "bannerImage",
+"design": "default",
+"fit": "fitWidth",
+"marginLeft": 15,
+"items": [
+{
+"showSubcategory": false,
+"image": "https://i.imgur.com/RMyOptk.jpeg"
+}
+],
+"marginBottom": 0,
+"height": 0.2,
+"marginRight": 15,
+"marginTop": 0,
+"radius": 2,
+"padding": 0,
+"isSlider": true,
+"autoPlay": false,
+"intervalTime": 0,
+"showNumber": false,
+"isBlur": false,
+"showBackground": false,
+"upHeight": 0
+},
+{
+"layout": "spacer",
+"height": 20,
+"backgroundColor": "ffe5abb5",
+"useLightColor": true
+},
+{
+"layout": "spacer",
+"height": 20,
+"backgroundColor": null,
+"useLightColor": false
+},
+{
+"name": "⚡ Flash Sales",
+"layout": "saleOff",
+"isSnapping": true,
+"rows": 1,
+"columns": 0,
+"imageBoxfit": "contain",
+"imageRatio": 1.2,
+"hMargin": 6,
+"vMargin": 0,
+"hPadding": 0,
+"vPadding": 0,
+"showStockStatus": true,
+"enableRating": true,
+"hideTitle": false,
+"hideStore": false,
+"hidePrice": false,
+"showHeart": false,
+"showCartButton": false,
+"cartIconRadius": 9,
+"showQuantity": false,
+"showCartIconColor": false,
+"showCartIcon": false,
+"enableBottomAddToCart": false,
+"cardDesign": "card",
+"borderRadius": 3,
+"backgroundRadius": 10,
+"showCartButtonWithQuantity": false,
+"showCountDown": true,
+"backgroundWidthMode": true,
+"backgroundHeight": 250,
+"backgroundBoxFit": "cover"
+},
+{
+"layout": "spacer",
+"height": 20,
+"backgroundColor": null,
+"useLightColor": false
+},
+{
+"name": "Xem gần đây",
+"layout": "recentView",
+"isSnapping": false,
+"rows": 1,
+"columns": 0,
+"imageBoxfit": "cover",
+"imageRatio": 1.2,
+"hMargin": 6,
+"vMargin": 0,
+"hPadding": 0,
+"vPadding": 0,
+"showStockStatus": true,
+"enableRating": true,
+"hideTitle": false,
+"hideStore": false,
+"hidePrice": false,
+"showHeart": false,
+"showCartButton": false,
+"cartIconRadius": 9,
+"showQuantity": false,
+"showCartIconColor": false,
+"showCartIcon": true,
+"enableBottomAddToCart": false,
+"cardDesign": "card",
+"borderRadius": 3,
+"backgroundRadius": 10,
+"showCartButtonWithQuantity": false,
+"backgroundWidthMode": true,
+"backgroundHeight": 250
+},
+{
+"name": "đồ gia dụng",
+"layout": "twoColumn",
+"isSnapping": false,
+"rows": 1,
+"columns": 3,
+"imageBoxfit": "cover",
+"imageRatio": 1.2,
+"hMargin": 6,
+"vMargin": 0,
+"hPadding": 0,
+"vPadding": 0,
+"showStockStatus": true,
+"enableRating": true,
+"hideTitle": false,
+"hideStore": true,
+"hidePrice": false,
+"showHeart": false,
+"showCartButton": false,
+"cartIconRadius": 9,
+"showQuantity": false,
+"showCartIconColor": false,
+"showCartIcon": false,
+"enableBottomAddToCart": false,
+"cardDesign": "card",
+"borderRadius": 3,
+"backgroundRadius": 10,
+"showCartButtonWithQuantity": false,
+"category": "198",
+"backgroundWidthMode": true,
+"backgroundHeight": 250
+}
+],
+"Setting": {
+"ShowChat": true,
+"FontHeader": "Raleway",
+"ProductDetail": "simpleType",
+"TabBarConfig": {
+"enable": true,
+"isSafeArea": true,
+"color": null,
+"colorCart": null,
+"colorIcon": "ffef9a9a",
+"colorActiveIcon": "ffffffff",
+"iconSize": 25,
+"indicatorStyle": "rectangular",
+"showFloatingClip": false,
+"showFloating": false,
+"radiusTopLeft": 0,
+"radiusTopRight": 0,
+"radiusBottomLeft": 0,
+"radiusBottomRight": 0,
+"paddingLeft": 0,
+"paddingRight": 0,
+"paddingBottom": 0,
+"paddingTop": 0,
+"marginTop": 0,
+"marginBottom": 0,
+"marginLeft": 0,
+"marginRight": 0,
+"boxShadow": {
+"blurRadius": 0,
+"colorOpacity": 0,
+"spreadRadius": 10,
+"x": 0,
+"y": 0
+},
+"TabBarIndicator": {
+"height": null,
+"tabPosition": "bottom",
+"topRightRadius": 20,
+"topLeftRadius": 20,
+"bottomRightRadius": 20,
+"bottomLeftRadius": 20,
+"color": null,
+"horizontalPadding": 15,
+"verticalPadding": 0,
+"strokeWidth": null,
+"radius": null,
+"distanceFromCenter": null,
+"paintingStyle": "fill"
+},
+"TabBarFloating": {
+"position": 2,
+"radius": null,
+"color": "fff44336",
+"location": "centerDocked",
+"width": null,
+"height": null,
+"elevation": 12,
+"floatingType": "diamond"
+}
+},
+"ProductListLayout": "list",
+"FontFamily": "Roboto",
+"MainColor": "ffee4d2d",
+"StickyHeader": true
+},
+"TabBar": [
+{
+"fontFamily": null,
+"icon": "assets/icons/tabs/icon-home.png",
+"label": null,
+"pos": 100,
+"layout": "home",
+"key": "po2qcygk1d"
+},
+{
+"key": "po2qcygk1d",
+"layout": "category",
+"icon": "collections",
+"fontFamily": "CupertinoIcons",
+"label": null,
+"pos": 200,
+"categoryLayout": "card",
+"categories": [
+"198",
+"181",
+"188"
+],
+"images": null
+},
+{
+"key": "po2qcygk1d",
+"layout": "search",
+"icon": "search",
+"fontFamily": "CupertinoIcons",
+"label": null,
+"pos": 300
+},
+{
+"key": "po2qcygk1d",
+"layout": "cart",
+"icon": "bag",
+"fontFamily": "CupertinoIcons",
+"label": null,
+"pos": 400
+},
+{
+"key": "po2qcygk1d",
+"layout": "profile",
+"icon": "settings",
+"fontFamily": "CupertinoIcons",
+"label": null,
+"pos": 500,
+"settings": [
+"language",
+"wallet",
+"web-9h5ppo56h2",
+"web-glwdrrqzjz",
+"web-4g3t4k5qz1",
+"wishlist",
+"order",
+"notifications",
+"point"
+],
+"background": "https://i.imgur.com/Ru2Nu8q.png",
+"subGeneralSetting": {
+"web-4g3t4k5qz1": {
+"webUrl": "https://dreamstore.com.my/my-account/woo-wallet-withdrawal/",
+"webViewMode": true,
+"requiredLogin": true,
+"icon": "money_dollar_circle",
+"iconFontFamily": "CupertinoIcons",
+"title": "ATM"
+},
+"web-9h5ppo56h2": {
+"webUrl": "https://dreamstore.com.my/verification-form/",
+"webViewMode": true,
+"requiredLogin": true,
+"icon": "cloud_upload_sharp",
+"iconFontFamily": "MaterialIcons",
+"title": "Passport"
+},
+"web-nby9pmx1ah": {
+"icon": "car_detailed",
+"iconFontFamily": "CupertinoIcons",
+"webViewMode": true,
+"requiredLogin": true,
+"title": "Yêu cầu nhanh",
+"webUrl": "https://dreamstore.com.my/en/my-account/orders/"
+},
+"web-glwdrrqzjz": {
+"webUrl": "https://dreamstore.com.my/en/upload-receipt/",
+"webViewMode": true,
+"requiredLogin": true,
+"icon": "camera_on_rectangle",
+"iconFontFamily": "CupertinoIcons",
+"title": "Nạp tiền tải lên"
+}
+}
+}
+],
+"Drawer": {
+"logo": "https://dreamstore.com.my/wp-content/uploads/2021/12/image-2-2.png",
+"subDrawerItem": {},
+"filter": 0,
+"items": [
+{
+"type": "home",
+"show": true
+},
+{
+"show": true,
+"type": "login"
+},
+{
+"type": "profile",
+"show": false
+},
+{
+"show": false,
+"type": "blog"
+},
+{
+"show": false,
+"type": "category"
+},
+{
+"type": "categories",
+"show": false
+},
+{
+"show": false,
+"type": "cart"
+},
+{
+"type": "web",
+"show": false
+}
+],
+"key": "2bpcwq399k",
+"logoConfig": {
+"marginLeft": 5,
+"marginTop": 60,
+"boxFit": "contain",
+"height": 50,
+"useMaxWidth": true,
+"marginRight": 0,
+"marginBottom": 10
+}
+},
+"AppBar": {
+"showOnScreens": [],
+"items": [
+{
+"type": "icon",
+"action": "menu",
+"pos": 100,
+"textOpacity": 0.5,
+"alignment": "center",
+"fontSize": 16,
+"fontFamily": "CupertinoIcons",
+"fontWeight": "400",
+"icon": "square_grid_2x2",
+"iconSize": 24,
+"size": 40,
+"radius": 18,
+"backgroundColor": "0",
+"marginLeft": 16,
+"marginRight": 4,
+"marginTop": 4,
+"marginBottom": 4,
+"paddingLeft": 4,
+"paddingRight": 4,
+"paddingTop": 4,
+"paddingBottom": 4,
+"key": "m8ezd4drpg"
+},
+{
+"type": "text",
+"action": "home",
+"pos": 200,
+"title": "Dream Store",
+"textOpacity": 0.8,
+"alignment": "center",
+"fontSize": 18,
+"fontFamily": "CupertinoIcons",
+"fontWeight": "800",
+"icon": "location",
+"iconSize": 24,
+"size": 20,
+"radius": 16,
+"backgroundColor": "#00000000",
+"marginLeft": 4,
+"marginRight": 4,
+"marginTop": 4,
+"marginBottom": 4,
+"paddingLeft": 4,
+"paddingRight": 4,
+"paddingTop": 4,
+"paddingBottom": 4,
+"key": "gga9jqju2e"
+},
+{
+"type": "icon",
+"action": "cart",
+"pos": 400,
+"textOpacity": 0.5,
+"alignment": "center",
+"fontSize": 16,
+"fontFamily": "CupertinoIcons",
+"fontWeight": "400",
+"icon": "shopping_cart",
+"iconSize": 24,
+"size": 40,
+"radius": 18,
+"backgroundColor": "0",
+"marginLeft": 4,
+"marginRight": 16,
+"marginTop": 4,
+"marginBottom": 4,
+"paddingLeft": 4,
+"paddingRight": 4,
+"paddingTop": 4,
+"paddingBottom": 4,
+"key": "swrxx0zicb"
+}
+]
+}
+}
